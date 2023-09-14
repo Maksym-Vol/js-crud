@@ -32,12 +32,20 @@
   border-radius: 16px;
   background-color: aquamarine;
   padding: 20px;
+  width: 50%;
+  justify-self: center;
 }
 
 .main {
   display: flex;
   flex-direction: column;
   gap: 40px;
+}
+
+.user-list li {
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
